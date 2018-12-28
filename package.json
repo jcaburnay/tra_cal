@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Tracker Calorie Application",
   "main": "index.js",
+  "homepage": "https://nongbi.github.io/tra_cal",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nongbi/tracal/issues"
   },
-  "homepage": "https://github.com/nongbi/tracal#readme"
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "pkg": "^4.3.5"
+  }
 }
